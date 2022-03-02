@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey o/
 
 Welcome to my Security-focused GitHub.  You should find a few examples of my work, as well as some useful common scripts.
 
