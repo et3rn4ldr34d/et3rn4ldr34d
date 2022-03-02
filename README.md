@@ -12,8 +12,7 @@ You can also find me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]:  (Twitter Icon)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://pngset.com/images/grey-twitter-logo-twitter-icon-small-symbol-trademark-painting-art-transparent-png-2532429.png (Twitter Icon)
 
 <!-- Links to social media accounts -->
 
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
 
 TO DO:
 Change Twitter Icon to Blue
-
+Update Security Skills List
+Highlight Accomplishments
 
 -->
