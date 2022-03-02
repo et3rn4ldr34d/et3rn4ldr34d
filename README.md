@@ -6,31 +6,16 @@ I'm currently focused on understanding blue-team focused skills, as well as prac
 
 My goal is to understand the most common attack vectors and how to defend against them.  Please feel free to message me for collaboration! 
 
-<!-- Actual text -->
-
-You can also find me on [![Twitter][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: https://pngset.com/images/grey-twitter-logo-twitter-icon-small-symbol-trademark-painting-art-transparent-png-2532429.png (Twitter Icon)
-
-<!-- Links to social media accounts -->
-
-[1]: https://twitter.com/thi3ves
+- 🔭 I’m currently working on a Python Hacking Script Library
+- 🌱 I’m currently learning Zero Trust Architecture
+- 👯 I’m looking to collaborate on SEIM tools and hotfixes
+- 🤔 I’m looking for help with APT Modeling and C2C Server Deployments
+- 💬 Ask me about Automation
+- 📫 How to reach me: email // Twitter
+- ⚡ Fun fact: I used to fix viruses through Windows XP Registry when I was 14!  (..even though I probably got them through P2P // torrents.. :)
 
 <!--
 **thi3ves/thi3ves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 TO DO:
 Change Twitter Icon to Blue
