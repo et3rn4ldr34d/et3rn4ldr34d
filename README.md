@@ -12,7 +12,7 @@ You can also find me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://www.clipartmax.com/png/full/469-4695108_twitter-icon-small-png.png (Twitter Icon)
+[1.2]:  (Twitter Icon)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to social media accounts -->
