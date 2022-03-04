@@ -12,8 +12,6 @@ My goal is to understand the most common attack vectors and how to defend agains
 - 🤔 I’m looking for help with APT Modeling and C2C Server Deployments
 - 💬 Ask me about Automation
 - 📫 How to reach me: email // Twitter
-- ⚡ Fun fact: I used to fix viruses through Windows XP Registry when I was 14!  
-     ( ..even though I probably got them through P2P // torrents.. :) )
 
 <!--
 **thi3ves/thi3ves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
