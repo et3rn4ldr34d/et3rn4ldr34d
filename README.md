@@ -12,7 +12,7 @@ My goal is to understand the most common attack vectors and how to defend agains
 - 💬 Ask me about Automation
 - 📫 How to reach me: email // Twitter
 
- <script src="https://tryhackme.com/badge/665581"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/viol3nt.png" alt="TryHackMe">
 
 <!--
 **thi3ves/thi3ves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
