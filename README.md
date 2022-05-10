@@ -6,12 +6,13 @@ I'm currently focused on understanding blue-team focused skills, as well as prac
 
 My goal is to understand the most common attack vectors and how to defend against them.  Please feel free to message me for collaboration! 
 
-- 🔭 I’m currently working on a Python Hacking Script Library
-- 🌱 I’m currently learning Zero Trust Architecture
-- 👯 I’m looking to collaborate on SEIM tools and hotfixes
-- 🤔 I’m looking for help with APT Modeling and C2C Server Deployments
+- 🔭 I’m currently working on a API Hacking Automation
+- 🌱 I’m currently learning Zero Trust Architecture // Cryptography
+- 🤔 I’m looking for help with APT Modeling and C2 Server Deployments
 - 💬 Ask me about Automation
 - 📫 How to reach me: email // Twitter
+
+ <script src="https://tryhackme.com/badge/665581"></script>
 
 <!--
 **thi3ves/thi3ves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
