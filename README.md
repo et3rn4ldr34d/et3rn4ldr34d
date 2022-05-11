@@ -6,10 +6,10 @@ I'm currently focused on understanding blue-team focused skills, as well as prac
 
 My goal is to understand the most common attack vectors and how to defend against them, as well as researching novel attack vectors.
 
-- 🔭 I’m currently working on a API Hacking Automation
+- 🔭 I’m currently working on API Hacking Automation
 - 🌱 I’m currently learning Zero Trust Architecture // Cryptography
 - 🤔 I’m looking for help with APT Modeling and C2 Server Deployments
-- 💬 Ask me about Automation
+- 💬 Ask me about Automation // CI/CD Pipelines
 - 📫 How to reach me: email // Twitter
 
   <img src="https://tryhackme-badges.s3.amazonaws.com/viol3nt.png" alt="TryHackMe">
