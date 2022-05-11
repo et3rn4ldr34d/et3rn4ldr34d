@@ -4,7 +4,7 @@ Welcome to my Security-focused GitHub.  You should find a few examples of my wor
 
 I'm currently focused on understanding blue-team focused skills, as well as practicing basic web application bug hunting.
 
-My goal is to understand the most common attack vectors and how to defend against them.  Please feel free to message me for collaboration! 
+My goal is to understand the most common attack vectors and how to defend against them, as well as researching novel attack vectors.
 
 - 🔭 I’m currently working on a API Hacking Automation
 - 🌱 I’m currently learning Zero Trust Architecture // Cryptography
