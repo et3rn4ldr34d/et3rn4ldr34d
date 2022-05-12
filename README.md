@@ -15,7 +15,7 @@ My goal is to understand the most common attack vectors and how to defend agains
 To view my alternate Web Development focused GitHub, please visit [@msonke](https://github.com/msonke)
 
 ##### TryHackMe Profile:
-  <img src="https://tryhackme-badges.s3.amazonaws.com/viol3nt.png" alt="TryHackMe">
+  [<img src="https://tryhackme-badges.s3.amazonaws.com/viol3nt.png" alt="TryHackMe">](https://tryhackme.com/p/viol3nt)
 
 <!--
 **thi3ves/thi3ves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
