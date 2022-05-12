@@ -10,7 +10,7 @@ My goal is to understand the most common attack vectors and how to defend agains
 - 🌱 I’m currently learning Zero Trust Architecture // Cryptography
 - 🤔 I’m looking for help with APT Modeling and C2 Server Deployments
 - 💬 Ask me about Automation // CI/CD Pipelines
-- 📫 How to reach me: email // Twitter
+- 📫 How to reach me: email // twitter
 
 To view my alternate Web Development focused GitHub, please visit [@msonke](https://github.com/msonke)
 
