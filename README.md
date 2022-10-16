@@ -1,10 +1,6 @@
-### (Hello World!)
+### [{?}./-_whoami_-\.{?}]
 
-Welcome to my Security-focused GitHub.  You should find a few examples of my work, as well as some useful common scripts.
-
-I'm currently focused on understanding blue-team focused skills, as well as practicing basic web application bug hunting.
-
-My goal is to understand the most common attack vectors and how to defend against them, as well as researching novel attack vectors.
+SecEngineer // Pentester // Bug Bounty Hunter
 
 - 🔭 I’m currently working on Mobile Pentesting
 - 🌱 I’m currently learning Cloud Architecture // Cryptography
