@@ -3,7 +3,7 @@
 SecEngineer // Pentester // Bug Bounty Hunter
 
 - 🔭 I’m currently working on Mobile Pentesting
-- 🌱 I’m currently learning Cloud Architecture // Cryptography
+- 🌱 I’m currently learning Cryptography
 - 💬 Ask me about Automation
 - 📫 How to reach me: email // twitter
 
