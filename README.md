@@ -7,7 +7,11 @@ Cloud SecEngineer // Pentester // Bug Bounty Hunter
 - 💬 Ask me about Automation
 - 📫 How to reach me: email // twitter
 
-**AWS Security Specialist, AWS Developer Associate, Security+, Google Python Automation Holder**
+## Certifications
+- **AWS Security Specialist**
+- **AWS Developer Associate**
+- **CompTIA Security+**
+- **Google Python Automation Specialist**
 
 To view my alternate Dev focused GitHub, please visit [@msonke](https://github.com/msonke)
 
